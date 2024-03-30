@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCQRvjPjeZi71hyX2dKb5alWSO9aJB6waA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>697746036388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.phoneNumberAuthentication</string>
+	<key>PROJECT_ID</key>
+	<string>phone-number-authenticat-8084b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>phone-number-authenticat-8084b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:697746036388:ios:6215cd243fa546dcc53831</string>
+</dict>
+</plist>

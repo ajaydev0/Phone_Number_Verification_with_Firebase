@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697746036388",
+    "project_id": "phone-number-authenticat-8084b",
+    "storage_bucket": "phone-number-authenticat-8084b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697746036388:android:9cb1aeb2e517db91c53831",
+        "android_client_info": {
+          "package_name": "com.example.phone_number_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdEfEFaN3u5uGhEPNpO4zklLNYQgdt1Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
